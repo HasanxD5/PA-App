@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+
+    <!-- App name -->
+    <string name="app_name">Practice Application</string>
+    <string name="welcome_text">This application specially designed\nfor practice by work in Android Studio</string>
+
+</resources>
